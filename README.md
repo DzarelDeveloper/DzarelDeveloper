@@ -1,2 +1,3 @@
 ### Helo World 👋
-Like coding, our love never ends and always upgrades.
+
+Give Up? Huh Better Do It Fail Than Not Do It ( Give Up )
