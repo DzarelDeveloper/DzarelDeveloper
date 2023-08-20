@@ -1,3 +1,3 @@
 ### Helo World 👋
 
-Give Up? Huh Better Do It Fail Than Not Do It ( Give Up )
+#### I like being alone but don't like being lonely
