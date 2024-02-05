@@ -5,16 +5,13 @@
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&logo=Made%20In&logoColor=white" alt="Made In" />
   </a>
-</div>
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&logo=Indonesia&logoColor=white" alt="Indonesia" />
   </a>
-</div>
 <div align="center">
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
   </a>
-</div>
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/DzarelDeveloper-FFFFFF?style=for-the-badge&logo=DzarelDeveloper&logoColor=white" alt="Dzarel Developer" />
   </a>
