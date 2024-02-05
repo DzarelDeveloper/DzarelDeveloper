@@ -18,7 +18,7 @@
 </div>
 <div align="center">
   <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/CodeSphere-FF0000?style=for-the-badge&logo=Codesphere&logoColor=white" alt="Codesphere" />
+    <img src="https://img.shields.io/badge/CodeSphered01010-FF0000?style=for-the-badge&logo=Codesphered01010&logoColor=white" alt="Codesphered01010" />
 </a>
 </div>
   
