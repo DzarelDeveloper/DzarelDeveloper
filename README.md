@@ -11,11 +11,12 @@
 </div>
 <div align="center">
   <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
+    <img src="https://img.shields.io/badge/Coded%20By-87CEEB?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
   </a>
   <a href="#" rel="nofollow">
     <img src="https://img.shields.io/badge/DzarelDeveloper-FFFFFF?style=for-the-badge&logo=DzarelDeveloper&logoColor=white" alt="Dzarel Developer" />
   </a>
+</div>
 </div>
   
 
