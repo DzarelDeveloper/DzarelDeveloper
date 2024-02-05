@@ -2,7 +2,7 @@
 
 
 <a href="https://www.instagram.com/_4lghifari_/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Made In-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Made In" />
+    <img src="https://img.shields.io/badge/Made In-E4405F?style=for-the-badge&logo=Made In&logoColor=white" alt="Made In" />
   </a>
   <a href="https://wa.me/+375295770130" rel="nofollow">
   <img src="https://img.shields.io/badge/Indonesia-25D366?style=for-the-badge&logo=Indonesia &logoColor=white" alt="Indonesia" />
