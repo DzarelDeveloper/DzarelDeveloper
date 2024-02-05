@@ -35,4 +35,4 @@
 [![](https://visitcount.itsvg.in/api?id=DzarelDeveloper&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://www.instagram.com/_4lghifari_/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Crhome-E4405F?style=for-the-badge&logo=Crhome&logoColor=white" alt="View" />
+    <img src="https://img.shields.io/badge/eye-E4405F?style=for-the-badge&logo=eye&logoColor=white" alt="View" />
