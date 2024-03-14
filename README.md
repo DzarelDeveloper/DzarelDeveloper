@@ -41,7 +41,7 @@
   
 <div align="center" dir="auto">
   <h2>Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyngcoder&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api? DzarelDeveloper=kyngcoder&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyngcoder&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
 </div></br>
 
 <div align="center">
