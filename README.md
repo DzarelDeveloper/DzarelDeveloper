@@ -28,7 +28,7 @@
 </div>
 
  <div align="center" dir="auto">
-  <h3>Connect with me: </h3>
+  <h3>Contact me: </h3>
   <a href="https://www.instagram.com/_4lghifari_/" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
