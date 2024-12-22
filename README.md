@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="300"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="250px" style="max-width: 100%;"/>
 </div>
 
 ---
@@ -22,10 +22,10 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzarelDeveloper&theme=radical" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=radical" alt="GitHub Stats" width="300px" style="max-width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzarelDeveloper&theme=radical" alt="GitHub Streak Stats" width="300px" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages" width="300px" style="max-width: 100%;"/>
 </div>
 
 ---
@@ -56,7 +56,7 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
 
 <div align="center">
   <h3>📈 Profile Stats</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=radical" alt="Profile Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=radical" alt="Profile Trophies" width="400px" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
