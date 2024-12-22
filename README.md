@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving complex problems and bringing creative ideas to life through code. My expertise lies in Web Development, Arduino, and Python programming. Outside of work, I enjoy gaming, coding, and engaging with the tech community.
+Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving complex problems and bringing creative ideas to life through code. My expertise lies in Web Development, and Python programming. Outside of work, I enjoy gaming, coding, and engaging with the tech community.
 
 ---
 
