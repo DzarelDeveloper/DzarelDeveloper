@@ -30,7 +30,7 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
 
 ---
 
-<h2 align="center">🌟 Top 3 Projects</h2>
+<h2 align="center">Top 3 Projects</h2>
 
 | Project Name | Stars (⭐) | Forks (🍴) |
 |--------------|-----------|------------|
