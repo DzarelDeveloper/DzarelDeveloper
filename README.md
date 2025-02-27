@@ -28,15 +28,19 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages" width="300px" style="max-width: 100%;"/>
 </div>
 
----
+--- 
 
-<h2 align="center">Top 3 Projects</h2>
+<h3 align="left">⚙️ Projects:</h3>
 
-| Project Name | Stars (⭐) | Forks (🍴) |
-|--------------|-----------|------------|
-| **[ForYou](https://github.com/DzarelDeveloper/ForYou)** | **49** | **52** |
-| **[Birthday](https://github.com/DzarelDeveloper/Birthday-)** | **41** | **29** |
-| **[HappyGirlfriendDay](https://github.com/DzarelDeveloper/HappyGirlfriendDay)** | **28** | **40** |
+<a href="https://github.com/DzarelDeveloper/ForYou"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=ForYou" />
+</a>
+<a href="https://github.com/DzarelDeveloper/Birthday"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=Birthday" />
+</a>
+<a href="https://github.com/DzarelDeveloper/HappyGirlfriendDay"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=HappyGirlfriendDay" />
+</a>
 
 ---
 
