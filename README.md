@@ -35,8 +35,8 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
 <a href="https://github.com/DzarelDeveloper/ForYou"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=ForYou" />
 </a>
-<a href="https://github.com/DzarelDeveloper/Birthday"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=Birthday" />
+<a href="https://github.com/DzarelDeveloper/Birthday-"><img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=Birthday-" />
 </a>
 <a href="https://github.com/DzarelDeveloper/HappyGirlfriendDay"><img
   src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=HappyGirlfriendDay" />
