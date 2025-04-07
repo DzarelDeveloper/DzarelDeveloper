@@ -23,9 +23,11 @@ Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=radical" alt="GitHub Stats" width="300px" style="max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzareldeveloper&theme=radical" alt="GitHub Streak Stats" width="300px" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages" width="300px" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=radical" alt="GitHub Stats" width="500px" style="max-width: 100%;"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzareldeveloper&theme=radical" alt="GitHub Streak Stats" width="500px" style="max-width: 100%;"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages" width="500px" style="max-width: 100%;"/>
 </div>
 
 --- 
