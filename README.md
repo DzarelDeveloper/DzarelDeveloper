@@ -16,8 +16,15 @@
 ---
 
 ## 🚀 About Me
-Hi! I'm DzarelDeveloper, a passionate web and software developer. I love solving complex problems and bringing creative ideas to life through code. My expertise lies in Web Development, and Python programming. Outside of work, I enjoy gaming, coding, and engaging with the tech community.
+Hi there! I'm Dzarel Alghifari — a passionate Front-End Developer and aspiring Software Engineer with growing interests in Cybersecurity and Data Analysis.
 
+I love building responsive, user-friendly websites and solving challenges with code. While my current focus is on front-end development using HTML, CSS, and JavaScript, I'm actively learning backend technologies and exploring secure coding practices.
+
+🔧 Skills: HTML, CSS, JavaScript, Python (basic)  
+🔐 Learning: Web Security, Ethical Hacking, Backend Fundamentals  
+🎮 Fun: Gaming, side projects, tech community
+
+Always open to collaboration and eager to grow — let’s build something cool together!
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
