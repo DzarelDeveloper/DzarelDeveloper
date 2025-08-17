@@ -16,15 +16,15 @@
 ---
 
 ## 🚀 About Me
-Hi there! I'm Dzarel Alghifari — a passionate Front-End Developer and aspiring Software Engineer with growing interests in Cybersecurity and Data Analysis.
+Hi there! I'm Muhammad Dzarel Alghifari — also known as DzarelDeveloper — a passionate Front-End Developer with a growing interest in Cybersecurity and Software Engineering.
 
-I love building responsive, user-friendly websites and solving challenges with code. While my current focus is on front-end development using HTML, CSS, and JavaScript, I'm actively learning backend technologies and exploring secure coding practices.
+I enjoy building responsive, user-friendly websites and solving tech challenges through code. My current focus is on front-end development using HTML, CSS, and JavaScript, while actively learning backend basics and secure coding practices.
 
 🔧 Skills: HTML, CSS, JavaScript, Python (basic)  
-🔐 Learning: Web Security, Ethical Hacking, Backend Fundamentals  
-🎮 Fun: Gaming, side projects, tech community
+🔐 Learning: Web Security, Ethical Hacking, Backend Development  
+🎮 Hobbies: Gaming, side projects, and engaging with the tech community
 
-Always open to collaboration and eager to grow — let’s build something cool together!
+Let's connect and create something impactful together!
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
