@@ -1,12 +1,10 @@
-<h1 align="center">✨ Welcome to DzarelDeveloper's Profile ✨</h1>
+<h1 align="center">✨ WELCOME TO ✨</h1>
 
 <div align="center">
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&logo=Made%20In&logoColor=white" alt="Made In" />
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&logo=Indonesia&logoColor=white" alt="Indonesia" />
-  </a>
+  <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=DzarelDeveloper" alt="Name Header"/>
+  <br/>
 </div>
 
 <div align="center">
