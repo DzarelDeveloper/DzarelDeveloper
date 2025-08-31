@@ -104,58 +104,25 @@ Let's connect and create something impactful together!
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" style="max-width: 100%;"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzareldeveloper&theme=radical" alt="GitHub Streak Stats" width="400px" style="max-width: 100%;"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=radical" alt="Top Languages" width="400px" style="max-width: 100%;"/>
-</div>
-
---- 
-
-<h3 align="left">⚙️ Projects:</h3>
-
-<a href="https://github.com/DzarelDeveloper/ForYou"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=ForYou" />
-</a>
-<a href="https://github.com/DzarelDeveloper/Birthday-"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=Birthday-" />
-</a>
-<a href="https://github.com/DzarelDeveloper/HappyGirlfriendDay"><img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=DzarelDeveloper&repo=HappyGirlfriendDay" />
-</a>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
+## 📊 **GitHub Analytics - Data Visualization**
 
 <div align="center">
-  <a href="https://www.instagram.com/_4lghifari_/" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/+6288293208245" rel="nofollow">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/CodesphereCommunity" rel="nofollow">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
 </div>
 
+<!-- Modified Streak Stats with Custom Values -->
 <div align="center">
-  <h3>📈 Profile Stats</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=radical" alt="Profile Trophies" width="400px" style="max-width: 100%;"/>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DzarelDeveloper&label=Profile%20Views&icon=1&pretty=true" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzarelDeveloper&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
+## 📈 **GitHub Trophy Collection**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-<h2 align="center">💖 Thanks for Visiting!</h2>
+---
 <!-- STATS -->
 &nbsp;
 <div>
@@ -169,3 +136,10 @@ Let's connect and create something impactful together!
         </a>
     </p>
 </br>
+
+---
+
+<!-- Winter Themed Sign Off -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
+</div>
