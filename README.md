@@ -28,7 +28,7 @@ Let's connect and create something impactful together!
   <p>Reach out via the button below:</p>
   <br/>
   <a href="https://dzarelportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-PREMIUM-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=40" alt="View Website" height="60"/>
+    <img src="https://img.shields.io/badge/🌐_CODE-PREMIUM-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=40" alt="View Website" height="60"/>
   </a>
 </div>
 
