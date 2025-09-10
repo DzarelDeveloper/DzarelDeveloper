@@ -19,6 +19,18 @@ I enjoy building responsive, user-friendly websites and solving tech challenges 
 🎮 Hobbies: Gaming, side projects, and engaging with the tech community
 
 Let's connect and create something impactful together!
+
+---
+
+## 💼 Premium Services & Projects
+<div align="center">
+  <p>🚀 My premium projects and services are coming soon! Reach out via the buttons below:</p>
+  <br/>
+  <a href="https://dzarelportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 ---
 
 <!-- Snake Animation - TOP ONLY -->
