@@ -25,10 +25,10 @@ Let's connect and create something impactful together!
 ## 💼 Premium Code & Services
 <div align="center">
   <p>🚀 <strong>My premium code projects and services are coming soon!</strong></p>
-  <p>Reach out via the button below:</p>
-  <br/>
+  <!--
   <a href="https://dzarelportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=40" alt="View Premium Code" height="60"/>
+    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" alt="View Premium Code" height="60"/>
+    -->
   </a>
 </div>
 
