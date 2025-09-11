@@ -1,12 +1,15 @@
 ## 💼 Premium Code & Services
 
 <div align="center">
-  <p>🚀 My premium code projects and services are now LIVE!</p>
-  <p>Explore all premium code content, tools, and projects directly on my website.</p>
+  <p style="font-size: 24px; font-weight: bold;">🚀 My premium code projects and services are now LIVE!</p>
+  <p style="font-size: 20px;">Explore all premium code content, tools, and projects directly on my website.</p>
   <a href="https://shop.dzarel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" alt="View Premium Code" height="60"/>
+    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" 
+         alt="View Premium Code" 
+         height="90"/>
   </a>
 </div>
+
 
 ---
 
