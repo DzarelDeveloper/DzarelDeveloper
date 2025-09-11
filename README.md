@@ -1,10 +1,11 @@
-<h1 align="center">✨ WELCOME TO ✨</h1>
+## 💼 Premium Code & Services
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=DzarelDeveloper" alt="Name Header"/>
-  <br/>
-  <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
-  <br/>
+  <p>🚀 My premium code projects and services are now LIVE!</p>
+  <p>Explore all premium code content, tools, and projects directly on my website.</p>
+  <a href="https://shop.dzarel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" alt="View Premium Code" height="60"/>
+  </a>
 </div>
 
 ---
