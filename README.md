@@ -1,18 +1,5 @@
-## 💼 Premium Code & Services
-
-<div align="center">
-  <p style="font-size: 24px; font-weight: bold;">🚀 My premium code projects and services are now LIVE!</p>
-  <p style="font-size: 20px;">Explore all premium code content, tools, and projects directly on my website.</p>
-  <a href="https://shop.dzarel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" 
-         alt="View Premium Code" 
-         height="90"/>
-  </a>
-</div>
-
 
 ---
-
 ## 🚀 About Me
 Hi there! I'm Muhammad Dzarel Alghifari — also known as DzarelDeveloper — a passionate Front-End Developer with a growing interest in Cybersecurity and Software Engineering.
 
@@ -29,12 +16,15 @@ Let's connect and create something impactful together!
 ## 💼 Premium Code & Services
 
 <div align="center">
-  <p>🚀 My premium code projects and services are coming soon!</p>
-  <p>All premium code content, tools, and projects will be hosted here. Stay tuned!</p>
+  <p style="font-size: 24px; font-weight: bold;">🚀 My premium code projects and services are now LIVE!</p>
+  <p style="font-size: 20px;">Explore all premium code content, tools, and projects directly on my website.</p>
   <a href="https://shop.dzarel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" alt="View Premium Code" height="60"/>
+    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" 
+         alt="View Premium Code" 
+         height="90"/>
   </a>
 </div>
+
 
 
 ---
