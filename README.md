@@ -1,4 +1,11 @@
+<h1 align="center">✨ WELCOME TO ✨</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=DzarelDeveloper" alt="Name Header"/>
+  <br/>
+  <img src="./14.gif" alt="Header Animation" width="100%" style="max-width: 900px;"/>
+  <br/>
+  
 ---
 ## 🚀 About Me
 Hi there! I'm Muhammad Dzarel Alghifari — also known as DzarelDeveloper — a passionate Front-End Developer with a growing interest in Cybersecurity and Software Engineering.
