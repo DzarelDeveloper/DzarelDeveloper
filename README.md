@@ -82,8 +82,8 @@ Let's connect and create something impactful together!
           </tr>
           <tr>
             <td style="padding: 8px;">
-              <a href="https://dzarelportfolio.netlify.app/">
-                <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
+              <a href="https://dzarel.com">
+                <img src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
               </a>
             </td>
             <td style="padding: 8px;">
