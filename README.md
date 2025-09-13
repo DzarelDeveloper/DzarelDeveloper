@@ -130,7 +130,7 @@ Let's connect and create something impactful together!
 </div>
 
 ---
-## 📈 **GitHub Trophy Collection**
+## 📈 **GitHub Trophy**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
