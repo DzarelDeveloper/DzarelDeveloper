@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Setiap baris kode yang kamu tulis hari ini, membawa kamu lebih dekat menjadi developer yang lebih baik esok hari."
+> "Setiap baris kode yang kamu tulis hari ini, membawa kamu lebih dekat menjadi developer yang lebih baik esok hari." 
 
 ---
 
