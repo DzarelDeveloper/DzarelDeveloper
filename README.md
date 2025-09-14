@@ -152,6 +152,12 @@ Let's connect and create something impactful together!
 
 ---
 
+# 🌟 Quest Harian Coding
+
+> "Setiap baris kode yang kamu tulis hari ini, membawa kamu lebih dekat menjadi developer yang lebih baik esok hari."
+
+---
+
 <!-- Winter Themed Sign Off -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Thanks+for+visiting+my+digital+workspace!;Let's+build+something+amazing+together!" alt="Sign Off"/>
