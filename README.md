@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Setiap baris kode yang kamu tulis hari ini, membawa kamu lebih dekat menjadi developer yang lebih baik esok hari." 
+> "Buat satu fitur kecil yang benar-benar bisa dipakai, meski sederhana. Misalnya: tombol dengan aksi, form validasi, atau animasi interaktif. Jangan berhenti di “hello world.”" 
 
 ---
 
