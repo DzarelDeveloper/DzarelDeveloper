@@ -154,8 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Buat satu fitur kecil yang benar-benar bisa dipakai, meski sederhana. Misalnya: tombol dengan aksi, form validasi, atau animasi interaktif. Jangan berhenti di “hello world.”" 
->
+> "Buat satu fitur kecil yang benar-benar bisa dipakai, meski sederhana. Misalnya: tombol dengan aksi, form validasi, atau animasi interaktif. Jangan berhenti di “hello world.” "
 
 ---
 
