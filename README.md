@@ -156,6 +156,8 @@ Let's connect and create something impactful together!
 
 > "Buat satu fitur kecil yang benar-benar bisa dipakai, meski sederhana. Misalnya: tombol dengan aksi, form validasi, atau animasi interaktif. Jangan berhenti di “hello world.”" 
 
+> "Kualitas developer tidak ditentukan oleh seberapa cepat dia menulis kode, tapi seberapa konsisten dia menyelesaikan sesuatu sampai tuntas."
+
 ---
 
 <!-- Winter Themed Sign Off -->
