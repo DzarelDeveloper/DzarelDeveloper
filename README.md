@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Konsistensi > Motivasi. Satu commit bisa ngalahin seribu wacana.."
+> "Konsistensi > Motivasi. Satu commit bisa ngalahin seribu wacana."
 
 ---
 
