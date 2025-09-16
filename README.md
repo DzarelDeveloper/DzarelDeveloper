@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Setiap commit hari ini adalah investasi kecil yang akan tumbuh menjadi skill besar di masa depan."
+> "Konsistensi > Motivasi. Satu commit bisa ngalahin seribu wacana."
 
 ---
 
