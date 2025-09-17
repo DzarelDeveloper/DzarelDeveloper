@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Konsistensi > Motivasi. Satu commit bisa ngalahin seribu wacana."
+> "Kode kecil hari ini lebih berharga daripada rencana besar yang tidak pernah jalan."
 
 ---
 
