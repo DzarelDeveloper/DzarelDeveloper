@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Kode kecil hari ini lebih berharga daripada rencana besar yang tidak pernah jalan."
+> "Progress bukan tentang seberapa cepat, tapi seberapa rutin kamu menulis."
 
 ---
 
