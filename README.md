@@ -154,7 +154,7 @@ Let's connect and create something impactful together!
 
 # 🌟 Quest Harian 🌟
 
-> "Progress bukan tentang seberapa cepat, tapi seberapa rutin kamu menulis."
+> "Kode hebat lahir bukan dari sprint semalam, tapi dari commit konsisten setiap hari.""
 
 ---
 
