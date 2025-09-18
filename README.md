@@ -154,7 +154,9 @@ Let's connect and create something impactful together!
 
 ### 🌟 Quest Harian 🌟
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F76B&width=700&lines=Kode+hebat+lahir+bukan+dari+sprint+semalam;Tapi+dari+commit+konsisten+setiap+hari.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F76B&center=true&vCenter=true&width=700&lines=Kode+hebat+lahir+bukan+dari+sprint+semalam;Tapi+dari+commit+konsisten+setiap+hari." alt="Quest Harian"/>
+</p>
 
 
 ---
