@@ -152,11 +152,10 @@ Let's connect and create something impactful together!
 
 ---
 
-### 🌟 Quest Harian 🌟
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F76B&center=true&vCenter=true&width=700&lines=Kode+hebat+lahir+bukan+dari+sprint+semalam;Tapi+dari+commit+konsisten+setiap+hari." alt="Quest Harian"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&lines=⚔️+Daily+Coding+Quest+⚔️;🚀+Level+Up+One+Commit+at+a+Time!" alt="Quest Harian"/>
 </p>
+
 
 
 ---
