@@ -152,9 +152,10 @@ Let's connect and create something impactful together!
 
 ---
 
-# 🌟 Quest Harian 🌟
+### 🌟 Quest Harian 🌟
 
-> "Kode hebat lahir bukan dari sprint semalam, tapi dari commit konsisten setiap hari.""
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F76B&width=700&lines=Kode+hebat+lahir+bukan+dari+sprint+semalam;Tapi+dari+commit+konsisten+setiap+hari.)
+
 
 ---
 
