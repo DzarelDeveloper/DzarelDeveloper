@@ -153,10 +153,8 @@ Let's connect and create something impactful together!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&lines=⚔️+Daily+Coding+Quest+⚔️;🚀+Level+Up+One+Commit+at+a+Time!" alt="Quest Harian"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F76B&center=true&vCenter=true&width=800&lines=⚡+Misi+Harian+Kode+⚡;Commit+kecil+hari+ini+=+level+up+besok!" alt="Quest Harian"/>
 </p>
-
-
 
 ---
 
