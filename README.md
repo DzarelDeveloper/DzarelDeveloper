@@ -152,7 +152,7 @@ Let's connect and create something impactful together!
 
 ---
 
-> "Satu commit hari ini, utang teknis berkurang besok."
+> "Lebih baik commit kecil konsisten daripada janji refactor abadi."
 
 ---
 
