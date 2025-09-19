@@ -151,6 +151,7 @@ Let's connect and create something impactful together!
 </br>
 
 ---
+🌟 Quest Harian 🌟
 
 > "Lebih baik commit kecil konsisten daripada janji refactor abadi."
 
