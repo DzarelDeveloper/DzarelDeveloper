@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Lebih baik commit kecil konsisten daripada janji refactor abadi."
+> "Kode setengah matang di repo lebih baik daripada ide matang yang cuma di kepala."
 
 ---
 
