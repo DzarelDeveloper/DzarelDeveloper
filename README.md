@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Kode setengah matang di repo lebih baik daripada ide matang yang cuma di kepala."
+> "Repo sehat bukan yang bebas bug, tapi yang terus tumbuh dengan commit konsisten."
 
 ---
 
