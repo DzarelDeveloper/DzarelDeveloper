@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Repo sehat bukan yang bebas bug, tapi yang terus tumbuh dengan commit konsisten."
+> "Kode yang baik bukan yang sempurna sejak awal, tapi yang berkembang lewat commit kecil setiap hari."
 
 ---
 
