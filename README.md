@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Repo yang sehat tumbuh dari konsistensi, bukan dari kode yang sempurna."
+> "Repo hidup itu seperti pohon — tumbuh pelan tapi kokoh karena dirawat setiap hari."
 
 ---
 
