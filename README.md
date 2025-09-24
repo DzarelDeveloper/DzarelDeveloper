@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Tidak ada repo sempurna, hanya repo yang terus berkembang bersama developernya."
+> "Bug bisa diperbaiki, tapi kebiasaan malas commit lebih berbahaya."
 
 ---
 
