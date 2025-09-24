@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Bug itu wajar, yang penting repo terus hidup dengan setiap commit yang kamu buat."
+> "Repo yang sehat tumbuh dari konsistensi, bukan dari kode yang sempurna."
 
 ---
 
