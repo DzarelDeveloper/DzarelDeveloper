@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Repo hidup itu seperti pohon — tumbuh pelan tapi kokoh karena dirawat setiap hari."
+> "Tidak ada repo sempurna, hanya repo yang terus berkembang bersama developernya."
 
 ---
 
