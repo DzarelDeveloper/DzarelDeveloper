@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Bug bisa diperbaiki, tapi kebiasaan malas commit lebih berbahaya."
+> "Commit kecil hari ini bisa jadi fondasi besar di masa depan."
 
 ---
 
