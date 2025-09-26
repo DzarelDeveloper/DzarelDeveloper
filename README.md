@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Commit kecil hari ini bisa jadi fondasi besar di masa depan."
+> "Setiap commit adalah jejak, repo sehat adalah perjalanan"
 
 ---
 
