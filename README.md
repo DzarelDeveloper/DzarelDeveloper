@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Kode yang baik bukan yang sempurna sejak awal, tapi yang berkembang lewat commit kecil setiap hari."
+> "Project bukan soal cepat selesai, tapi soal progres stabil dan commit yang konsisten."
 
 ---
 
