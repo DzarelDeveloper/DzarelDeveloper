@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Setiap commit adalah jejak, repo sehat adalah perjalanan"
+> "Kode yang baik bukan yang sempurna sejak awal, tapi yang berkembang lewat commit kecil setiap hari."
 
 ---
 
