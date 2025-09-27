@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Project bukan soal cepat selesai, tapi soal progres stabil dan commit yang konsisten."
+> "Bug itu wajar, yang penting repo terus hidup dengan setiap commit yang kamu buat."
 
 ---
 
