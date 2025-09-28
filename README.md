@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Apa yaa?ada saran kata"?"
+> "jangan menyerah, progress kecil tetap langkah besar 🚶‍♂️"
 
 ---
 
