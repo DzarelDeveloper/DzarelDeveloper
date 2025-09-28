@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "jangan menyerah, progress kecil tetap langkah besar 🚶‍♂️"
+> "belajar dari error, bukan lari darinya 🐞"
 
 ---
 
