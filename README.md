@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Repo yang sehat tumbuh dari konsistensi, bukan dari kode yang sempurna."
+> ""Project bukan soal cepat selesai, tapi soal progres stabil dan commit yang konsisten."
 ---
 
 <!-- Winter Themed Sign Off -->
