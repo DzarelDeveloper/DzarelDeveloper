@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Kesempurnaan menunggu di akhir, tapi kemajuan hadir di setiap commit harian."
+> "Repo yang sehat tumbuh dari konsistensi, bukan dari kode yang sempurna."
 ---
 
 <!-- Winter Themed Sign Off -->
