@@ -153,8 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "belajar dari error, bukan lari darinya 🐞"
-
+> "Kesempurnaan menunggu di akhir, tapi kemajuan hadir di setiap commit harian."
 ---
 
 <!-- Winter Themed Sign Off -->
