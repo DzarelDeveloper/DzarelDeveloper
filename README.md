@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "pelan tapi pasti, hasilnya nyata 🌱"
+> "My girl is… when the code runs without error on the first try 🥹"
 ---
 
 <!-- Winter Themed Sign Off -->
