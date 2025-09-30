@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "konsistensi lebih penting daripada kecepatan 🕰️"
+> "pelan tapi pasti, hasilnya nyata 🌱"
 ---
 
 <!-- Winter Themed Sign Off -->
