@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> ""gagal hari ini = bahan bakar untuk besok 🔥"
+> "konsistensi lebih penting daripada kecepatan 🕰️"
 ---
 
 <!-- Winter Themed Sign Off -->
