@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> ""
+> "rencana tanpa eksekusi cuma mimpi 💤"
 ---
 
 <!-- Winter Themed Sign Off -->
