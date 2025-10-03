@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "progress kecil lebih baik daripada diam "
+> "progress kecil lebih baik daripada diam"
 ---
 
 <!-- Winter Themed Sign Off -->
