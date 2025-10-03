@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "progress kecil lebih baik daripada diam"
+> "Belajar Python hari ini"
 ---
 
 <!-- Winter Themed Sign Off -->
