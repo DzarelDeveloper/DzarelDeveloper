@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Menambahkan fitur baru"
+> "Menguji aplikasi"
 ---
 
 <!-- Winter Themed Sign Off -->
