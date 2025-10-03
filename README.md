@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Menulis kode bersih"
+> "Refactoring kode"
 ---
 
 <!-- Winter Themed Sign Off -->
