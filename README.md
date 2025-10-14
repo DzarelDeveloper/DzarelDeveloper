@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Pengetahuan itu hasil dari ketekunan, bukan keberuntungan."
+> "Belajar bukan beban, tapi tiket keluar dari kebingungan."
 ---
 
 <!-- Winter Themed Sign Off -->
