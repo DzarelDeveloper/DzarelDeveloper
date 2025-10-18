@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Ilmu nggak datang ke yang pintar, tapi ke yang penasaran."
+> "Jangan Pernah Berhenti Mencoba"
 ---
 
 <!-- Winter Themed Sign Off -->
