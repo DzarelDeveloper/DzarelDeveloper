@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Jangan Pernah Berhenti Mencoba"
+> "Sedikit belajar tiap hari jauh lebih kuat daripada semangat sesaat."
 ---
 
 <!-- Winter Themed Sign Off -->
