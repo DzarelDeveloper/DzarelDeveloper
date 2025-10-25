@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Gagal paham itu wajar, asal jangan gagal mencoba lagi."
+> "Fokus sebentar lebih berharga daripada niat besar tanpa aksi."
 ---
 
 <!-- Winter Themed Sign Off -->
