@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Pengetahuan itu hasil dari ketekunan, bukan keberuntungan."
+> "Jangan tunggu jenius, biasakan proses."
 ---
 
 <!-- Winter Themed Sign Off -->
