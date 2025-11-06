@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Waktu terbaik buat mulai belajar itu kemarin. Yang kedua terbaik: sekarang."
+> "Waktu terbaik buat mulai belajar itu kemarin. Yang kedua terbaik: sekarang"
 ---
 
 <!-- Winter Themed Sign Off -->
