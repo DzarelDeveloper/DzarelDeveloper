@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Saat kamu paham hal baru, itu otakmu sedang naik level."
+> "Belajar itu bukan soal cepat paham, tapi soal nggak berhenti nyoba."
 ---
 
 <!-- Winter Themed Sign Off -->
