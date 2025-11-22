@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Belajar bukan beban, tapi tiket keluar dari kebingungan."
+> "Saat kamu paham hal baru, itu otakmu sedang naik level."
 ---
 
 <!-- Winter Themed Sign Off -->
