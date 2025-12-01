@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Belajar itu bukan soal cepat paham, tapi soal nggak berhenti nyoba."
+> "Ilmu nggak datang ke yang pintar, tapi ke yang penasaran."
 ---
 
 <!-- Winter Themed Sign Off -->
