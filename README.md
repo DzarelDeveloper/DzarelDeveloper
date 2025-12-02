@@ -153,7 +153,7 @@ Let's connect and create something impactful together!
 ---
 🌟 Quest Harian 🌟
 
-> "Fokus sebentar lebih berharga daripada niat besar tanpa aksi."
+> "Jangan tunggu jenius, biasakan proses."
 ---
 
 <!-- Winter Themed Sign Off -->
