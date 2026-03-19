@@ -25,16 +25,41 @@ Let’s grow and build impactful solutions together!
 
 ---
 
-# 💼 Premium Code & Services
+## 🌐 My Digital Ecosystem
 
 <div align="center">
-  <p style="font-size: 20px;">Explore all premium code content, tools, and projects directly on my website.</p>
-  <a href="https://shop.dzarel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻_CODE-PREMIUM-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=FFD700&logoWidth=60" 
-         alt="View Premium Code" 
-         height="90"/>
-  </a>
+
+| 🌐 Brand / Entity | 🎯 Focus |
+|------------------|---------|
+| **[CodeSphere](https://github.com/Codesphered01010)** | Global coding community for learning & collaboration |
+| **[THScholar](https://github.com/THScholar)** | Digital education organization for students |
+| **Zyra Network** | Business brand for website & SEO services |
+| **DzarelDeveloper** | Personal brand in development & security |
+
 </div>
+
+<p align="center">
+From learning → community → real-world digital solutions 🚀
+</p>
+
+---
+
+## 💼 Services & Expertise
+
+<div align="center">
+
+<p>
+🌐 Website Development &nbsp;&nbsp;&nbsp;
+⚡ Landing Page Optimization &nbsp;&nbsp;&nbsp;
+🔍 SEO (Google & Maps Visibility) &nbsp;&nbsp;&nbsp;
+📈 Business Growth Support
+</p>
+
+</div>
+
+<p align="center">
+💡 I help businesses not only look good — but get found and grow.
+</p>
 
 ---
 
