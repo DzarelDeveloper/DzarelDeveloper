@@ -116,7 +116,7 @@ From learning → community → real-world digital solutions 🚀
               </a>
             </td>
             <td style="padding: 8px;">
-              <a href="https://www.instagram.com/syntaxx.sky/">
+              <a href="https://www.instagram.com/buildwithdzarel/">
                 <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
               </a>
             </td>
