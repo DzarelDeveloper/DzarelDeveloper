@@ -9,57 +9,43 @@
 ---
 
 ## 🚀 About Me
-Hi! I'm **Muhammad Dzarel Alghifari**, also known as **DzarelDeveloper** — a **Developer Student** with a strong passion for Front-End Development, Cybersecurity, and Software Engineering.
+Hi! I'm **Muhammad Dzarel Alghifari** — also known as **DzarelDeveloper**.
 
-As a student, I actively explore the world of programming by building projects, experimenting with new technologies, and sharpening my problem-solving skills through real-world practice. I enjoy turning ideas into clean, responsive, and user-friendly web experiences.
+I'm a **Developer & Builder**, currently focused on **Front-End Development and real-world projects**.
 
-Currently, my main focus is front-end development using **HTML, CSS, and JavaScript**, while gradually diving deeper into **backend fundamentals**, **secure coding**, and **web security concepts**.
+Beyond coding, I’m building a small ecosystem:
 
-🔧 **Tech Stack**: HTML, CSS, JavaScript, Python (basic)  
-📚 **Currently Learning**: Backend Development, Web Security, Ethical Hacking  
-🚀 **Goals**: Become a well-rounded Software Engineer & Cybersecurity Enthusiast  
-🎮 **Interests**: Gaming, side projects, open-source, and tech communities
+- 🌱 **Codesphre** → a growing coding community
+- 💼 **Zyra Network** → digital solutions for businesses
 
-Always open to learning, collaboration, and exciting opportunities.  
-Let’s grow and build impactful solutions together!
+I don’t just learn — I build, test, and turn ideas into real products.
+
+Currently:
+🔧 Building client projects through Zyra  
+📚 Growing developer community through Codesphre  
+🚀 Improving skills in frontend, backend, and web security  
+
+My goal is simple:
+> To become a developer who not only codes — but creates impact.
+
+Always open for collaboration, projects, and opportunities.
+---
+
+## 🌐 Ecosystem
+
+- Codesphre → Developer Community  
+- Zyra Network → Digital Solutions  
 
 ---
 
-## 🌐 My Digital Ecosystem
+## 💼 Services (Zyra Network)
 
-<div align="center">
+I help businesses build:
+- Modern websites
+- Landing pages
+- SEO-ready platforms
 
-| 🌐 Brand / Entity | 🎯 Focus |
-|------------------|---------|
-| **[CodeSphere](https://github.com/Codesphered01010)** | Global coding community for learning & collaboration |
-| **[THScholar](https://github.com/THScholar)** | Digital education organization for students |
-| **Zyra Network** | Business brand for website & SEO services |
-| **DzarelDeveloper** | Personal brand in development & security |
-
-</div>
-
-<p align="center">
-From learning → community → real-world digital solutions 🚀
-</p>
-
----
-
-## 💼 Services & Expertise
-
-<div align="center">
-
-<p>
-🌐 Website Development &nbsp;&nbsp;&nbsp;
-⚡ Landing Page Optimization &nbsp;&nbsp;&nbsp;
-🔍 SEO (Google & Maps Visibility) &nbsp;&nbsp;&nbsp;
-📈 Business Growth Support
-</p>
-
-</div>
-
-<p align="center">
-💡 I help businesses not only look good — but get found and grow.
-</p>
+📩 Available for freelance projects
 
 ---
 
