@@ -19,18 +19,7 @@
 ---
   
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>Hey, <b>I'm Muhamad Dzarel Alghifari! — also known as DzarelDeveloper.</b> I'm a Developer & Builder, currently focused on Front-End Development and real-world projects. 
-  Beyond coding, I’m building a small ecosystem:
-
-- 🌱 **Codesphre** → a growing coding community
-- 💼 **Zyra Network** → digital solutions for businesses
-
-I don’t just learn — I build, test, and turn ideas into real products.
-
-Currently:
-🔧 Building client projects through Zyra  
-📚 Growing developer community through Codesphre  
-🚀 Improving skills in frontend, backend, and web security  
+<p>Hey, <b>I'm Muhamad Dzarel Alghifari! — also known as DzarelDeveloper.</b> I'm a developer and builder who is currently focused on front-end development and real-world projects. Beyond coding, I’m actively building a small ecosystem that includes Codesphre as a growing coding community and Zyra Network as a digital solution platform for businesses. I don’t just learn things passively. I build, test, and turn ideas into real, usable products. Right now, I’m working on client projects through Zyra while also growing a developer community through Codesphre, all while continuously improving my skills in frontend, backend, and web security. My goal is simple: to become a developer who doesn’t just write code, but actually creates impact.
 
 My goal is simple:
 > To become a developer who not only codes — but creates impact.
