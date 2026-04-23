@@ -4,6 +4,7 @@
   <img src="logo.png" alt="Header Animation" width="100%" style="max-width: 900px;"/>
   <br/>
   <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DzarelDeveloper&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
   <a href="https://github.com/DzarelDeveloper?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/DzarelDeveloper?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
   &nbsp;
   <a href="https://github.com/DzarelDeveloper/ForYou/forks"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/DzarelDeveloper/ForYou?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+"/></a>
@@ -31,35 +32,17 @@ Always open for collaboration, projects, and opportunities.
   
 ---
 
-## 🌐 Ecosystem
-
-- Codesphre → Developer Community  
-- Zyra Network → Digital Solutions  
-
----
-
-## 💼 Services (Zyra Network)
-
-I help businesses build:
-- Modern websites
-- Landing pages
-- SEO-ready platforms
-
-📩 Available for freelance projects
-
----
-
 <!-- Snake Animation - TOP ONLY -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <!-- Profile Counters with Neon Effect -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DzarelDeveloper&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/DzarelDeveloper?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status"/>
-</div>
+</div> -->
 
 ---
 
@@ -145,10 +128,10 @@ I help businesses build:
 </div>
 
 ---
-## 📈 **GitHub Trophy**
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DzarelDeveloper&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ---
 <!-- STATS -->
