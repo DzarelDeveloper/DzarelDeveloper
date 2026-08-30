@@ -118,13 +118,24 @@ Always open for collaboration, projects, and opportunities.
 ## 📊 **GitHub Analytics - Data Visualization**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DzarelDeveloper&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzarelDeveloper&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzarelDeveloper&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzarelDeveloper&theme=github">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DzarelDeveloper&theme=github_dark" alt="DzarelDeveloper GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzarelDeveloper&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzarelDeveloper&theme=github">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DzarelDeveloper&theme=github_dark" alt="DzarelDeveloper most-used languages">
+  </picture>
 </div>
 
-<!-- Modified Streak Stats with Custom Values -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzarelDeveloper&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DzarelDeveloper&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DzarelDeveloper&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=DzarelDeveloper&theme=dark&hide_border=true" alt="DzarelDeveloper GitHub contribution streak">
+  </picture>
 </div>
 
 ---
@@ -136,17 +147,16 @@ Always open for collaboration, projects, and opportunities.
 ---
 <!-- STATS -->
 &nbsp;
-<div>
-    <h2 align='center'><i><a href="https://github.com/DzarelDeveloper">Activity Graph 📈</i></h2>
-    <p align="center">
-        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-        </a>
-        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-        </a>
-    </p>
-</br>
+<div align="center">
+  <h2><i><a href="https://github.com/DzarelDeveloper">Activity Graph 📈</a></i></h2>
+  <a href="https://github.com/DzarelDeveloper">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=github-compact&area=true&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=minimal&area=true&hide_border=true">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=github-compact&area=true&hide_border=true" width="100%" alt="DzarelDeveloper contribution activity graph">
+    </picture>
+  </a>
+</div>
 
 ---
 🌟 Quest Harian 🌟
