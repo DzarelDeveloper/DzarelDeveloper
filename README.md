@@ -148,12 +148,12 @@ Always open for collaboration, projects, and opportunities.
 <!-- STATS -->
 &nbsp;
 <div align="center">
-  <h2><i><a href="https://github.com/DzarelDeveloper">Activity Graph 📈</a></i></h2>
+  <h2><i><a href="https://github.com/DzarelDeveloper">Contribution Activity 📈</a></i></h2>
   <a href="https://github.com/DzarelDeveloper">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=github-compact&area=true&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=minimal&area=true&hide_border=true">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DzarelDeveloper&theme=github-compact&area=true&hide_border=true" width="100%" alt="DzarelDeveloper contribution activity graph">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzarelDeveloper&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzarelDeveloper&theme=github">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzarelDeveloper&theme=github_dark" width="100%" alt="DzarelDeveloper contribution activity">
     </picture>
   </a>
 </div>
