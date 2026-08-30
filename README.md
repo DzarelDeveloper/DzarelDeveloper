@@ -148,7 +148,7 @@ Always open for collaboration, projects, and opportunities.
 <!-- STATS -->
 &nbsp;
 <div align="center">
-  <h2><i><a href="https://github.com/DzarelDeveloper">Contribution Activity 📈</a></i></h2>
+  <h2><i>Contribution Activity 📈</i></h2>
   <a href="https://github.com/DzarelDeveloper">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzarelDeveloper&theme=github_dark">
