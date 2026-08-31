@@ -20,12 +20,18 @@
 ---
   
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>Hey, <b>I'm Muhamad Dzarel Alghifari! — also known as DzarelDeveloper.</b> I'm a developer and builder who is currently focused on front-end development and real-world projects. Beyond coding, I’m actively building a small ecosystem that includes Codesphre as a growing coding community and Zyra Network as a digital solution platform for businesses. I don’t just learn things passively. I build, test, and turn ideas into real, usable products. Right now, I’m working on client projects through Zyra while also growing a developer community through Codesphre, all while continuously improving my skills in frontend, backend, and web security. My goal is simple: to become a developer who doesn’t just write code, but actually creates impact.
+<p>Hey, <b>I'm Muhamad Dzarel Alghifari — also known as DzarelDeveloper.</b>
+
+I'm a <b>Software Developer</b> focused on building secure, user-focused web applications and digital products. I primarily work with <b>React, Next.js, and Node.js</b>, while continuously developing my knowledge of back-end systems, web security, and modern software development.
+
+I learn by building, testing, and turning ideas into practical products. Alongside software development, I actively explore different <b>AI technologies and tools</b> to understand how they can improve learning, creativity, workflows, and digital products.
+
+Beyond personal and client projects, I'm building a growing technology ecosystem through <b>CodeSphere</b>, a developer community with more than 1,000 members, and <b>Zyra Network</b>, a digital solutions platform helping businesses turn ideas into usable products.
 
 My goal is simple:
-> To become a developer who not only codes — but creates impact.
+> <b>To become a developer who not only writes code, but creates meaningful impact.</b>
 
-Always open for collaboration, projects, and opportunities.
+Always open to collaboration, projects, and opportunities.
 ---
 <p/>
 </div>
