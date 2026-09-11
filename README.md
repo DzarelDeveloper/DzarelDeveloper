@@ -20,20 +20,19 @@
 ---
   
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>Hey, <b>I'm Muhamad Dzarel Alghifari — also known as DzarelDeveloper.</b>
 
-I'm a <b>Software Developer</b> focused on building secure, user-focused web applications and digital products. I primarily work with <b>React, Next.js, and Node.js</b>, while continuously developing my knowledge of back-end systems, web security, and modern software development.
+Hey, **I'm Muhamad Dzarel Alghifari — also known as DzarelDeveloper.**
 
-I learn by building, testing, and turning ideas into practical products. Alongside software development, I actively explore different <b>AI technologies and tools</b> to understand how they can improve learning, creativity, workflows, and digital products.
+I'm a **Software Developer** focused on building secure, user-focused web applications. I work across frontend and backend development using technologies such as **React, Next.js, Node.js, PHP, MySQL, and Python**.
 
-Beyond personal and client projects, I'm building a growing technology ecosystem through <b>CodeSphere</b>, a developer community with more than 1,000 members, and <b>Zyra Network</b>, a digital solutions platform helping businesses turn ideas into usable products.
+I learn by building and testing practical products. My recent projects include **[Masakan Nusantara](https://github.com/DzarelDeveloper/MasakanNusantara)**, a QR-based restaurant ordering system, and **[OmniDL](https://github.com/DzarelDeveloper/OmniDL)**, a self-hosted media processing application built with React, Express, Python, and FFmpeg.
 
-My goal is simple:
-> <b>To become a developer who not only writes code, but creates meaningful impact.</b>
+My internship experience in web development, software testing, security monitoring, and authorized web application assessment has helped me approach software development with greater awareness of validation, access control, and application security.
 
-Always open to collaboration, projects, and opportunities.
----
-<p/>
+Outside personal projects, I build technology initiatives through **CodeSphere**, a developer community, and **Zyra Network**, a web development and digital services initiative.
+
+I'm currently open to **internships, freelance or contract projects, collaborations, and suitable junior software development opportunities**.
+
 </div>
   
 ---
