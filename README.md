@@ -1,40 +1,74 @@
 <div align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Hy,Welcome👋" alt="Name Header"/> -->
-  <br/>
-  <img src="logonew.png" alt="Header Animation" width="100%" style="max-width: 900px;"/>
-  <br/>
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DzarelDeveloper&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
-  <a href="https://github.com/DzarelDeveloper?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/DzarelDeveloper?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
-  &nbsp;
-  <a href="https://github.com/DzarelDeveloper/ForYou/forks"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/DzarelDeveloper/ForYou?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+"/></a>
-  &nbsp;
-  <a href="https://github.com/DzarelDeveloper?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/DzarelDeveloper?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
-  &nbsp;
-  <a href="https://portofolio.dzarel.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  &nbsp;
-  <a href="mailto:dzarelalghifari123@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;
-  <!-- <a href=""><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a> -->
+
+<!-- ── Banner ───────────────────────────────────────────── -->
+<img src="logonew.png" alt="Dzarel Developer" width="100%" style="max-width: 900px;" />
+
+#### *Beyond Code, Creating Impact*
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=DzarelDeveloper">
+    <img src="https://komarev.com/ghpvc/?username=DzarelDeveloper&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/DzarelDeveloper?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/DzarelDeveloper?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  <a href="https://github.com/DzarelDeveloper/ForYou/forks"><img alt="Forks" src="https://img.shields.io/github/forks/DzarelDeveloper/ForYou?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+"/></a>
+  <a href="https://github.com/DzarelDeveloper?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/DzarelDeveloper?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  <a href="https://portofolio.dzarel.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:dzarelalghifari123@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 </div>
+
 ---
-  
-<div align="justify" style="max-width: 800px; margin: 0 auto;">
 
-Hey, **I'm Muhamad Dzarel Alghifari — also known as DzarelDeveloper.**
+<!-- ── About ────────────────────────────────────────────── -->
+<h2>About Me</h2>
 
-I'm a **Software Developer** focused on building secure, user-focused web applications. I work across frontend and backend development using technologies such as **React, Next.js, Node.js, PHP, MySQL, and Python**.
+Hey, **I'm Muhamad Dzarel Alghifari — a Software Developer known as DzarelDeveloper.**
 
-I learn by building and testing practical products. My recent projects include **[Masakan Nusantara](https://github.com/DzarelDeveloper/MasakanNusantara)**, a QR-based restaurant ordering system, and **[OmniDL](https://github.com/DzarelDeveloper/OmniDL)**, a self-hosted media processing application built with React, Express, Python, and FFmpeg.
+I build **secure, user-focused software applications** end to end — from frontend architecture with **React and Next.js** to backend services using **Node.js, PHP, and Python**, backed by **MySQL**. I take a product-driven approach: build real applications, test them under real-world conditions, and continuously improve them.
 
-My internship experience in web development, software testing, security monitoring, and authorized web application assessment has helped me approach software development with greater awareness of validation, access control, and application security.
+My experience in software development, testing, security monitoring, and authorized web application security assessments has shaped how I build software — **validation, access control, and secure architecture are requirements, not afterthoughts.**
 
-Outside personal projects, I build technology initiatives through **CodeSphere**, a developer community, and **Zyra Network**, a web development and digital services initiative.
+Beyond individual projects, I build technology initiatives through **CodeSphere**, a developer community, and **Zyra Network**, a web development and digital services initiative.
 
-I'm currently open to **internships, freelance or contract projects, collaborations, and suitable junior software development opportunities**.
+- Currently building **SEI — Self Exploration Intelligence**
+- Exploring **Application Security, System Design, and Software Architecture**
+- Ask me about **React, Next.js, TypeScript, and Node.js**
+- Reach me at [**dzarelalghifari123@gmail.com**](mailto:dzarelalghifari123@gmail.com)
+- Open to **internships, freelance projects, collaborations, and junior software development opportunities**
 
-</div>
-  
+---
+
+<!-- ── Featured Projects ─────────────────────────────────── -->
+<h2>Featured Projects</h2>
+
+### [SEI — Self Exploration Intelligence](https://github.com/DzarelDeveloper/sei)
+
+> Client-only web app helping **SMP / SMA / SMK students** recognize their interests and explore education pathways — with evidence-backed recommendations.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Privacy--first-000000?style=flat-square" alt="Privacy-first" />
+  <img src="https://img.shields.io/badge/BYOK_AI_Mode-000000?style=flat-square" alt="BYOK AI Mode" />
+  <img src="https://img.shields.io/badge/Rule--based_Scoring-000000?style=flat-square" alt="Rule-based Scoring" />
+  <img src="https://img.shields.io/badge/SMP_SMA_SMK_Pathways-000000?style=flat-square" alt="Education Pathways" />
+  <img src="https://img.shields.io/badge/Client--only_SPA-000000?style=flat-square" alt="Client-only SPA" />
+</p>
+
+**[Live Demo](https://sei-explore.netlify.app) · [Repository](https://github.com/DzarelDeveloper/sei)**
+
+### [VibeRepo](https://github.com/DzarelDeveloper/VibeRepo)
+
+> Turns any public GitHub repository into a clear, build-ready blueprint — generating a complete handoff package in minutes.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Handoff_Docs_Generator-000000?style=flat-square" alt="Handoff Docs Generator" />
+  <img src="https://img.shields.io/badge/Multi--provider_AI-000000?style=flat-square" alt="Multi-provider AI" />
+  <img src="https://img.shields.io/badge/Repo_to_Blueprint-000000?style=flat-square" alt="Repo to Blueprint" />
+  <img src="https://img.shields.io/badge/No_Database_Needed-000000?style=flat-square" alt="No Database" />
+</p>
+
+**[Repository](https://github.com/DzarelDeveloper/VibeRepo)**
+
 ---
 
 <!-- Snake Animation - TOP ONLY -->
