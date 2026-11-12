@@ -119,7 +119,7 @@ Beyond individual projects, I build technology initiatives through **CodeSphere*
           </tr>
           <tr>
             <td style="padding: 8px;">
-              <a href="https://dzarel.com">
+              <a href="https://portofolio.dzarel.my.id/">
                 <img src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
               </a>
             </td>
